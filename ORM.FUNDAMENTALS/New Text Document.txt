@@ -1,0 +1,3 @@
+PowerShell command Database First model
+
+dotnet ef dbcontext scaffold "Server=.;Integrated Security=true;Database=SoftUni" Microsoft.EntityFrameworkCore.SqlServer --project "C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\ORM.FUNDAMENTALS\Simple.Exams\Simple.Exams\Simple.Exams.csproj"
