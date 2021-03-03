@@ -1,0 +1,126 @@
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.exe
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.deps.json
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.runtimeconfig.json
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.pdb
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csprojAssemblyReference.cache
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CopyComplete
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.dll
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.pdb
+C:\Users\Inputangel\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.exe
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.deps.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CopyComplete
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\EntityRelations\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.genruntimeconfig.cache

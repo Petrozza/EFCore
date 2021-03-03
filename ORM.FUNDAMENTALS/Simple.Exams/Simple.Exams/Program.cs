@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Simple.Exams
 {
@@ -6,12 +7,13 @@ namespace Simple.Exams
     {
         static void Main(string[] args)
         {
-            var town = new Town
+            var db = new SoftUniContext();
+            var department = db.Employees.GroupBy(x => x.Department.Name)
+                .Select(x => new { Name = x.Key, Count = x.Count() }).ToList();
+            foreach (var Otdel in department)
             {
-                Name = "Pernik"
-
-            };
-            
+                Console.WriteLine($"{Otdel.Name} - {Otdel.Count}");
+            }
         }
     }
 }
