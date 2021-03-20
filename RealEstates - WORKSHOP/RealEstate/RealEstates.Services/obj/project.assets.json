@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0": {
+      "Microsoft.EntityFrameworkCore.SqlServer/5.0.4": {
+        "type": "package"
+      },
+      "RealEstates.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4",
+          "RealEstates.Models": "1.0.0"
+        }
+      },
+      "RealEstates.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v5.0"
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.EntityFrameworkCore.SqlServer/5.0.4": {
+      "sha512": "wFn6lYyezhTIWpEB85NYn0TmVs0GiTQBbgKxK4/BmeEXBoLdltOngosey1u9t1+c2xjxuis1V7fP3wcLVSf+jg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlserver/5.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.xml",
+        "microsoft.entityframeworkcore.sqlserver.5.0.4.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.nuspec"
+      ]
+    },
+    "RealEstates.Data/1.0.0": {
+      "type": "project",
+      "path": "../RealEstates.Data/RealEstates.Data.csproj",
+      "msbuildProject": "../RealEstates.Data/RealEstates.Data.csproj"
+    },
+    "RealEstates.Models/1.0.0": {
+      "type": "project",
+      "path": "../RealEstates.Models/RealEstates.Models.csproj",
+      "msbuildProject": "../RealEstates.Models/RealEstates.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": [
+      "RealEstates.Data >= 1.0.0",
+      "RealEstates.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\RealEstates.Services.csproj",
+      "projectName": "RealEstates.Services",
+      "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\RealEstates.Services.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50": {
+          "projectReferences": {
+            "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj": {
+              "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj"
+            },
+            "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj": {
+              "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.4 is not compatible with net50 (.NETFramework,Version=v5.0). Package Microsoft.EntityFrameworkCore.SqlServer 5.0.4 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0"
+      ]
+    }
+  ]
+}

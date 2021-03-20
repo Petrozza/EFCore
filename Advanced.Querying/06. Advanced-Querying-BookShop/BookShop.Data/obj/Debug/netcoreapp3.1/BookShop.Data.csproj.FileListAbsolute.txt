@@ -1,0 +1,12 @@
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

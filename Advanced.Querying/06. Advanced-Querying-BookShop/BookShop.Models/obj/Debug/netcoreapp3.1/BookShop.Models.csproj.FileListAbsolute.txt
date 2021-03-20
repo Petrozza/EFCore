@@ -1,0 +1,9 @@
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
+d:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\Advanced.Querying\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb

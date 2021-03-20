@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\RealEstates.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj",
+        "projectName": "RealEstates.Data",
+        "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj": {
+                "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj",
+        "projectName": "RealEstates.Models",
+        "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\RealEstates.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\RealEstates.Services.csproj",
+        "projectName": "RealEstates.Services",
+        "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\RealEstates.Services.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj": {
+                "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Data\\RealEstates.Data.csproj"
+              },
+              "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj": {
+                "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\RealEstates - WORKSHOP\\RealEstate\\RealEstates.Models\\RealEstates.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
