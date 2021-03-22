@@ -28,7 +28,86 @@ namespace ProductShop
             //Console.WriteLine(ImportCategories(context, categoriesXml));
             //Console.WriteLine(ImportCategoryProducts(context, categoriesProductsXml));
 
-            Console.WriteLine(GetSoldProducts(context));
+            Console.WriteLine(GetUsersWithProducts(context));
+        }
+
+        public static string GetUsersWithProducts(ProductShopContext context)
+        {
+            var users = context.Users
+                    .ToArray()
+                    .Where(u => u.ProductsSold.Any(p => p.Buyer != null))
+                    .OrderByDescending(u => u.ProductsSold.Count)
+                    .Take(10)
+                    .Select(u => new ExportUserDto()
+                    {
+                        FirstName = u.FirstName,
+                        LastName = u.LastName,
+                        Age = u.Age,
+                        SoldProduct = new ExportProductCount()
+                        {
+                            Count = u.ProductsSold.Count(ps => ps.Buyer != null),
+                            Products = u.ProductsSold
+                                .ToArray()
+                                .Where(ps => ps.Buyer != null)
+                                .Select(ps => new ExportProductDto()
+                                {
+                                    Name = ps.Name,
+                                    Price = ps.Price
+                                })
+                                .OrderByDescending(p => p.Price)
+                                .ToArray()
+                        }
+                    })
+
+                    .ToArray();
+
+            var result = new UsersAndProductsModel
+            {
+                Count = context.Users.Count(p => p.ProductsSold.Any()),
+                Users = users
+            }
+            ;
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(UsersAndProductsModel[]), new XmlRootAttribute("Users"));
+
+            var textwriter = new StringWriter();
+            var ns = new XmlSerializerNamespaces();
+            ns.Add(string.Empty, string.Empty); 
+
+            xmlSerializer.Serialize(textwriter, result, ns);
+
+            var resultstring = textwriter.ToString();
+            //File.WriteAllText(@"../../../users-sold-products.xml", result); NOT WORKING IN JUDGE
+            return resultstring;
+        }
+
+
+        //**********************************************************************
+        public static string GetCategoriesByProductsCount(ProductShopContext context)
+        {
+            var categories = context.Categories
+                .Select(x => new CategoriesByProductCountModel
+                {
+                    Name = x.Name,
+                    Count = x.CategoryProducts.Count,
+                    AveragePrice = x.CategoryProducts.Select(p => p.Product.Price).Average(),
+                    TotalRevenue = x.CategoryProducts.Select(p => p.Product.Price).Sum()
+                })
+                .OrderByDescending(x => x.Count)
+                .ThenBy(x => x.TotalRevenue)
+                .ToArray();
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(CategoriesByProductCountModel[]), new XmlRootAttribute("Categories"));
+
+            var textwriter = new StringWriter();
+            var ns = new XmlSerializerNamespaces();
+            ns.Add(string.Empty, string.Empty);
+
+            xmlSerializer.Serialize(textwriter, categories, ns);
+
+            var result = textwriter.ToString();
+            //File.WriteAllText(@"../../../users-sold-products.xml", result); NOT WORKING IN JUDGE
+            return result;
         }
 
         public static string GetSoldProducts(ProductShopContext context)

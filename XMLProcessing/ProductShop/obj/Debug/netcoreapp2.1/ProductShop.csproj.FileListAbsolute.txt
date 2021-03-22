@@ -10,3 +10,15 @@ D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessin
 D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
 D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
 D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\XMLProcessing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache

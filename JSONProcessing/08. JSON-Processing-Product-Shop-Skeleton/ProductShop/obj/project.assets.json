@@ -5396,24 +5396,19 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\ro22000086\\.nuget\\packages\\": {},
-    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\ro22000086\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\JSONProcessing\\08. JSON-Processing-Product-Shop-Skeleton\\ProductShop\\ProductShop.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\JSONProcessing\\08. JSON-Processing-Product-Shop-Skeleton\\ProductShop\\ProductShop.csproj",
       "projectName": "ProductShop",
-      "projectPath": "D:\\Users\\ro22000086\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\JSONProcessing\\08. JSON-Processing-Product-Shop-Skeleton\\ProductShop\\ProductShop.csproj",
-      "packagesPath": "D:\\Users\\ro22000086\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\ro22000086\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\JSONProcessing\\08. JSON-Processing-Product-Shop-Skeleton\\ProductShop\\obj\\",
+      "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\JSONProcessing\\08. JSON-Processing-Product-Shop-Skeleton\\ProductShop\\ProductShop.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\DATABASE\\EFCORE\\EFCore\\JSONProcessing\\08. JSON-Processing-Product-Shop-Skeleton\\ProductShop\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "D:\\Users\\ro22000086\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5425,7 +5420,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -5437,7 +5431,6 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
-        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -5480,7 +5473,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
