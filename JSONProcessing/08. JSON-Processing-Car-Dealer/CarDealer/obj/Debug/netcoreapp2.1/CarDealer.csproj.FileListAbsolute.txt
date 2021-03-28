@@ -10,3 +10,15 @@ D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessi
 D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
 D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
 D:\Users\ro22000086\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\angel\Google Drive\programming\DATABASE\EFCORE\EFCore\JSONProcessing\08. JSON-Processing-Car-Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache

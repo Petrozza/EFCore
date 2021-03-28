@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Xml.Serialization;
 
 namespace ProductShop
@@ -33,23 +34,30 @@ namespace ProductShop
 
         public static string GetUsersWithProducts(ProductShopContext context)
         {
-            var users = context.Users
+            StringBuilder sb = new StringBuilder();
+            var namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(String.Empty, String.Empty);
+
+            var users = new UserRootDTO()
+            {
+                Count = context.Users.Count(u => u.ProductsSold.Any(p => p.Buyer != null)),
+                Users = context.Users
                     .ToArray()
                     .Where(u => u.ProductsSold.Any(p => p.Buyer != null))
                     .OrderByDescending(u => u.ProductsSold.Count)
                     .Take(10)
-                    .Select(u => new ExportUserDto()
+                    .Select(u => new UserExportDTO()
                     {
                         FirstName = u.FirstName,
                         LastName = u.LastName,
                         Age = u.Age,
-                        SoldProduct = new ExportProductCount()
+                        SoldProducts = new SoldProductsDTO()
                         {
                             Count = u.ProductsSold.Count(ps => ps.Buyer != null),
                             Products = u.ProductsSold
                                 .ToArray()
                                 .Where(ps => ps.Buyer != null)
-                                .Select(ps => new ExportProductDto()
+                                .Select(ps => new ExportProductSoldDTO()
                                 {
                                     Name = ps.Name,
                                     Price = ps.Price
@@ -59,26 +67,14 @@ namespace ProductShop
                         }
                     })
 
-                    .ToArray();
+                    .ToArray()
+            };
 
-            var result = new UsersAndProductsModel
-            {
-                Count = context.Users.Count(p => p.ProductsSold.Any()),
-                Users = users
-            }
-            ;
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(UserRootDTO), new XmlRootAttribute("Users"));
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(UsersAndProductsModel[]), new XmlRootAttribute("Users"));
+            xmlSerializer.Serialize(new StringWriter(sb), users, namespaces);
 
-            var textwriter = new StringWriter();
-            var ns = new XmlSerializerNamespaces();
-            ns.Add(string.Empty, string.Empty); 
-
-            xmlSerializer.Serialize(textwriter, result, ns);
-
-            var resultstring = textwriter.ToString();
-            //File.WriteAllText(@"../../../users-sold-products.xml", result); NOT WORKING IN JUDGE
-            return resultstring;
+            return sb.ToString().Trim();
         }
 
 

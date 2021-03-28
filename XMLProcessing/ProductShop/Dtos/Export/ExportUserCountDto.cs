@@ -6,17 +6,17 @@ using System.Xml.Serialization;
 namespace ProductShop.Dtos.Export
 {
     [XmlType("Users")]
-    public class UsersAndProductsModel
+    public class UserRootDTO
     {
         [XmlElement("count")]
         public int Count { get; set; }
 
         [XmlArray("users")]
-        public ExportUserDto[] Users { get; set; }
+        public UserExportDTO[] Users { get; set; }
     }
 
     [XmlType("User")]
-    public class ExportUserDto
+    public class UserExportDTO
     {
         [XmlElement("firstName")]
         public string FirstName { get; set; }
@@ -27,26 +27,25 @@ namespace ProductShop.Dtos.Export
         [XmlElement("age")]
         public int? Age { get; set; }
 
-        [XmlElement("products")]
-        public ExportProductCount SoldProduct { get; set; }
+
+        public SoldProductsDTO SoldProducts { get; set; }
     }
 
     [XmlType("SoldProducts")]
-    public class ExportProductCount
+    public class SoldProductsDTO
     {
         [XmlElement("count")]
         public int Count { get; set; }
 
         [XmlArray("products")]
-        public ExportProductDto  Products { get; set; }
-        
+        public ExportProductSoldDTO[] Products { get; set; }
     }
+
     [XmlType("Product")]
-    public class ExportProductDto
+    public class ExportProductSoldDTO
     {
         [XmlElement("name")]
         public string Name { get; set; }
-
         [XmlElement("price")]
         public decimal Price { get; set; }
 
