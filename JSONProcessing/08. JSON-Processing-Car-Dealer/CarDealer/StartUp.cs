@@ -58,6 +58,25 @@ namespace CarDealer
             return result;
 
         }
+		
+		public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .Where(x => x.Sales.Any())
+                .Select(c => new
+                {
+                    fullName = c.Name,
+                    boughtCars = c.Sales.Count(),
+                    spentMoney = c.Sales.Select(s => s.Car.PartCars.Sum(pc => pc.Part.Price)).Sum()
+                })
+                .OrderByDescending(x => x.spentMoney)
+                .ThenByDescending(x => x.boughtCars)
+                .ToArray();
+
+            var output = JsonConvert.SerializeObject(customers, Formatting.Indented);
+            return output;
+
+        }
 
         public static string GetCarsWithTheirListOfParts(CarDealerContext context)
         {

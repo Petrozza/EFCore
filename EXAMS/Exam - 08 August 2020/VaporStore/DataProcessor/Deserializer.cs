@@ -132,7 +132,7 @@
 				//	.FirstOrDefault();
 				sb.AppendLine($"Imported {currPurchase.GameName} for {purchase.Card.User.Username}");
 
-				context.Purchases.Add(purchase);
+				//context.Purchases.Add(purchase);
 
             }
 			context.SaveChanges();

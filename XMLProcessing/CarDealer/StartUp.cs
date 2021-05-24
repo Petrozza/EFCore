@@ -17,22 +17,22 @@ namespace CarDealer
         public static void Main(string[] args)
         {
             var context = new CarDealerContext();
-            //context.Database.EnsureDeleted();
-            //context.Database.EnsureCreated();
+            context.Database.EnsureDeleted();
+            context.Database.EnsureCreated();
 
-            //var suppliersXml = File.ReadAllText("./Datasets/suppliers.xml");
-            //var partsXml = File.ReadAllText("./Datasets/parts.xml");
-            //var carsXml = File.ReadAllText("./Datasets/cars.xml");
-            //var customersXml = File.ReadAllText("./Datasets/customers.xml");
-            //var salesXml = File.ReadAllText("./Datasets/sales.xml");
-            //System.Console.WriteLine(ImportSuppliers(context, suppliersXml));
-            //System.Console.WriteLine(ImportParts(context, partsXml));
-            //System.Console.WriteLine(ImportCars(context, carsXml));
-            //System.Console.WriteLine(ImportCustomers(context, customersXml));
-            //System.Console.WriteLine(ImportSales(context, salesXml));
+            var suppliersXml = File.ReadAllText("./Datasets/suppliers.xml");
+            var partsXml = File.ReadAllText("./Datasets/parts.xml");
+            var carsXml = File.ReadAllText("./Datasets/cars.xml");
+            var customersXml = File.ReadAllText("./Datasets/customers.xml");
+            var salesXml = File.ReadAllText("./Datasets/sales.xml");
+            System.Console.WriteLine(ImportSuppliers(context, suppliersXml));
+            System.Console.WriteLine(ImportParts(context, partsXml));
+            System.Console.WriteLine(ImportCars(context, carsXml));
+            System.Console.WriteLine(ImportCustomers(context, customersXml));
+            System.Console.WriteLine(ImportSales(context, salesXml));
 
 
-            Console.WriteLine(GetSalesWithAppliedDiscount(context));
+            //Console.WriteLine(GetSalesWithAppliedDiscount(context));
 
         }
 
